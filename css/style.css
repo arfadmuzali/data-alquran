@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+body {
+  background-color: rgb(255, 255, 255);
+  font-family: "Sarabun", sans-serif;
+}
+.surah {
+  background-color: rgb(167, 255, 167);
+  padding: 10px;
+  margin: 5px;
+  border-radius: 4px;
+  box-shadow: 2px 1px 2px rgba(0, 0, 0, 0.6);
+}
+.nama-surah {
+  padding: 2px;
+}
+.arti-surah {
+  padding: 1px 2px;
+}
+.jumlah-ayat {
+  padding: 1px;
+}
